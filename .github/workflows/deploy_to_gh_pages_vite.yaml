@@ -58,7 +58,7 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.runner }} vite build --base=/ --outDir=dist
         
       - name: Add CNAME for custom domain
-        run: echo "moneymatters.iiitnr.ac.in" > ./dist/CNAME
+        run: echo "mun.iiitnr.ac.in" > ./dist/CNAME
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
