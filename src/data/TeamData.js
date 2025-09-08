@@ -9,7 +9,6 @@ import Justin_Santosh_ from "../Assets/Team/25-26/Justin Santosh.jpg";
 import Kush_Agrawal_ from "../Assets/Team/25-26/Kush Agrawal.jpg";
 import Navyansh_Singh_ from "../Assets/Team/25-26/Navyansh Singh.jpg";
 import Onkareshwar_Sharma_ from "../Assets/Team/25-26/Onkareshwar Sharma.jpg";
-import Pranjali_Upadhyay_ from "../Assets/Team/25-26/Pranjali Upadhyay.jpeg";
 import Pushpraj_Nareti_ from "../Assets/Team/25-26/Pushpraj Nareti.png";
 import Rahul_Barma_ from "../Assets/Team/25-26/Rahul Barma.png";
 import Rudraprakash_Dahariya_ from "../Assets/Team/25-26/Rudraprakash Dahariya.jpg";
@@ -50,21 +49,14 @@ const TeamData={
                 img:Divyansh_Rangari_,
                 name:"Divyansh Rangari",
                 post: "Head",
-                linkedin: "https://www.linkedin.com/in/shashank-mishra-77610518b/",
+                linkedin: "https://www.linkedin.com/in/divyansh-rangari-2b2196326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
                 insta: "https://www.instagram.com/_im_shanks_/"
             },
             {
                 img: Vinamra_Agrawal_,
                 name:"Vinamra Agrawal",
                 post:"Vice Head",
-                linkedin: "https://www.linkedin.com/in/pranjali-https://www.linkedin.com/in/vinamra-agrawal-402b85329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app-a981a0304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-                insta: "https://www.instagram.com/halleflintaa/"
-            },
-            {
-                img: Pranjali_Upadhyay_,
-                name:"Pranjali Upadhyay",
-                post:"Vice Head",
-                linkedin: "https://www.linkedin.com/in/pranjali-upadhyay-a981a0304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                linkedin: "https://www.linkedin.com/in/vinamra-agrawal-402b85329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
                 insta: "https://www.instagram.com/halleflintaa/"
             }
         ],
@@ -73,29 +65,25 @@ const TeamData={
                 img: Rahul_Barma_,
                 name:"Rahul Barma",
                 post: "Head of Creatives",
-                linkedin: "www.linkedin.com/in/rahulbarma",
-                insta: "https://www.instagram.com/kaushal.designz/"
+                linkedin: "https://www.linkedin.com/in/rahulbarma"
             },
             {
                 img: Justin_Santosh_,
                 name:"Justin Santosh",
                 post: "Chargé d'affaires",
-                linkedin: "https://www.linkedin.com/in/justin-santosh-229a63325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-                insta: "https://www.instagram.com/justin_santosh/"
+                linkedin: "https://www.linkedin.com/in/justin-santosh-229a63325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             },
             {
                 img: Darshna_Sharma_,
                 name:"Darshna Sharma",
                 post:"Head of Operations",
-                linkedin: "https://www.linkedin.com/in/darshna-sharma-b81457326/",
-                insta: "https://www.instagram.com/aditya18_jha/"
+                linkedin: "https://www.linkedin.com/in/darshna-sharma-b81457326/"
             },
             {    
                 img: Siddhant_Singh_,
                 name:"Siddhant Singh",
                 post: "Head of Drafting",
-                linkedin : "https://www.linkedin.com/in/siddhant-singh-b5ab99314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-                insta: "https://www.instagram.com/chiccoo0_0/"
+                linkedin : "https://www.linkedin.com/in/siddhant-singh-b5ab99314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             },
         ],
         senior_team:[
@@ -201,6 +189,7 @@ const TeamData={
                 img: Chiman_Esda_,
                 name:"Chiman Esda",
                 post:"Website Lead",
+                linkedin : "https://www.linkedin.com/in/chiman-esda-45380b325"
             },
         ]
     },
