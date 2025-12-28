@@ -27,7 +27,6 @@ import Varun_Bhargava_ from "../Assets/Team/25-26/Varun Bhargava.jpg"
 import Avani_Dewangan_ from "../Assets/Team/25-26/Avani Dewangan.jpg"
 //2024
 import Aditya_Jha from "../Assets/Team/24-25/Aditya Kumar Jha.jpeg"
-import Adnan from "../Assets/Team/24-25/Sayyed Raahim Adnan.jpg"
 import Divyansh from "../Assets/Team/24-25/Divyansh.jpg"
 import Shashank from "../Assets/Team/24-25/Shashank Mishra.jpeg"
 import Kaushal from "../Assets/Team/24-25/Kaushal Ranjan.png"
@@ -202,11 +201,6 @@ const TeamData={
                 name:"Shashank Mishra",
                 post: "Secretary General",
             },
-            {
-                img: Adnan,
-                name:"Sayyed Raahim Adnan Ali",
-                post:"Director General",
-            }
         ],
         core:[
             {
